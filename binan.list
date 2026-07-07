@@ -1,0 +1,30 @@
+# Binance / 币安
+
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binance.me
+
+# Binance API
+DOMAIN,api.binance.com
+DOMAIN,api-gcp.binance.com
+DOMAIN,api1.binance.com
+DOMAIN,api2.binance.com
+DOMAIN,api3.binance.com
+DOMAIN,api4.binance.com
+
+# Binance WebSocket
+DOMAIN-SUFFIX,stream.binance.com
+DOMAIN-SUFFIX,fstream.binance.com
+DOMAIN-SUFFIX,dstream.binance.com
+
+# Binance Static / App
+DOMAIN-SUFFIX,bnstatic.com
+DOMAIN-SUFFIX,bnappstatic.com
