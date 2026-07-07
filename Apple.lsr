@@ -1,0 +1,21 @@
+# =========================
+# Apple Intelligence
+# =========================
+
+DOMAIN-SUFFIX,apple-intelligence.apple
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+
+# Apple AI CDN
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple.com
+
+# Siri / Apple Intelligence
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,api.smoot.apple.com
+
+# Private Cloud Compute
+DOMAIN-SUFFIX,pcc.apple.com
+DOMAIN-SUFFIX,pcc-*.apple.com
