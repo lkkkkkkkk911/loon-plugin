@@ -1,0 +1,4 @@
+# > 兴业银行 (CIB) 分流规则
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,cib.com
+DOMAIN-KEYWORD,cibbank
