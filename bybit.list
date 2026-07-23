@@ -1,7 +1,38 @@
-DOMAIN,monitor-frontend-collector.a.bybit-aws.com,Proxy
-DOMAIN-SUFFIX,bybit.com,Proxy
-DOMAIN-SUFFIX,bybit.biz,Proxy
-DOMAIN-SUFFIX,bybdc6.com,Proxy
-DOMAIN-SUFFIX,byabcde.com,Proxy
-DOMAIN-SUFFIX,byapps.net,Proxy
-DOMAIN-SUFFIX,byd3c3.com,Proxy
+# ==========================
+# Bybit Main
+# ==========================
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bytick.com
+
+# ==========================
+# API
+# ==========================
+DOMAIN,api.bybit.com
+DOMAIN,api.bytick.com
+
+# ==========================
+# WebSocket
+# ==========================
+DOMAIN,stream.bybit.com
+DOMAIN,stream.bytick.com
+DOMAIN,ws2.bybit.biz
+
+# ==========================
+# Static / CDN
+# ==========================
+DOMAIN-SUFFIX,bybitstatic.com
+DOMAIN-SUFFIX,bybitimg.com
+
+# ==========================
+# App
+# ==========================
+PROCESS-NAME,Bybit
+
+# ==========================
+# IP
+# ==========================
+IP-CIDR,8.210.0.0/16,no-resolve
+IP-CIDR,47.57.0.0/16,no-resolve
